@@ -1,0 +1,4 @@
+Belo Horizonte;MG;6000000;40
+Santos Dumont;MG;50000;12
+São Paulo;SP;8000000;50
+Rio de Janeiro;RJ;8000000;70

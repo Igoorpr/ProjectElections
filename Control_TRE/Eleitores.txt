@@ -1,0 +1,7 @@
+Vinicius de Morais;11452890;Belo Horizonte;13;52
+Mauricio de Sousa;90120098;Belo Horizonte;13;80
+Monteiro Lobato;25145517;Belo Horizonte;13;75
+Tatiana Belink;9812399;Belo Horizonte;13;50
+Ana Maria Machado;19182830;Belo Horizonte;140;33
+Bia Bedran;9218876;Santos Dumont;1;79
+Ziraldo;98776509;Santos Dumont;1;45

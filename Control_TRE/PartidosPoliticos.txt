@@ -1,0 +1,3 @@
+Partido Verde;PV
+Partido dos Trabalhadores;PT
+Partido Liberal;PL

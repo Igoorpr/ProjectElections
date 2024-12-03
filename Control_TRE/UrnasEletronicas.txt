@@ -1,0 +1,5 @@
+Belo Horizonte;13;52
+Belo Horizonte;13;50
+Belo Horizonte;140;33
+Santos Dumont;1;72
+SP;32;15

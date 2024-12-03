@@ -1,0 +1,10 @@
+Monteiro Lobato;11;Rio de Janeiro;PV;P
+Rui Barbosa;11324;Rio de Janeiro;PL;V
+Tom Jobim;11820;São Paulo;PV;V
+Vinicius de Morais;13;Belo Horizonte;PT;P
+Tomas Gonzaga;11;Santos Dumont;PL;P
+Marilia de Dirceu;11871;Santos Dumont;PV;V
+Tiradentes;11012;Santos Dumont;PV;V
+Fernando Pessoa;13;Santos Dumont;PT;P
+Carlos Drumond de Andrade;13560;Santos Dumont;PL;V
+Tarsila do Amaral;13298;Santos Dumont;PT;V

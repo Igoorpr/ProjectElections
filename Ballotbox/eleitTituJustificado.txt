@@ -1,0 +1,3 @@
+25145517 - Estado invalido. Titulo não cadastrado na urna;
+9812399 - Estado invalido. Titulo não cadastrado na urna;
+50 - Estado invalido. Titulo não cadastrado na urna;
